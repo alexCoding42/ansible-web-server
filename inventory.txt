@@ -1,0 +1,4 @@
+[web_servers]
+server1 ansible_host=192.168.33.10 ansible_ssh_pass=TestP@ssw0rd ansible_user=user1
+server2 ansible_host=192.168.33.11 ansible_ssh_pass=TestP@ssw0rd ansible_user=user2
+server3 ansible_host=192.168.33.12 ansible_ssh_pass=TestP@ssw0rd ansible_user=user3
